@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "284997992216",
+    "firebase_url": "https://secondtermexam.firebaseio.com",
+    "project_id": "secondtermexam",
+    "storage_bucket": "secondtermexam.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:284997992216:android:19a02f2cda367dfa",
+        "android_client_info": {
+          "package_name": "com.example.rmanrique.exam_second_term"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "284997992216-h5sd5crsusqe6pvm55365o4clka89ea9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4xjo0elpXyETlaia_mv77fHfpMeYffko"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
