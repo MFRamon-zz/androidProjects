@@ -1,5 +1,5 @@
 # Airlines Project
-This is a repository with some of android apps I have developed throughout my university years,the topics that are covered are:
+ Topics that are covered are:
 
 * Constraint Layout
 * Recyclerview
